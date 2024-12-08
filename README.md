@@ -60,7 +60,7 @@ You can check out the live demo of this project [here](https://react-openmapweat
 I hope you like the design for any query contact - skyrisegupta@gmail.com or akashguptaworks@gmail.com
 
 
-##Found a Bug? 🐛
+## Found a Bug? 🐛
 
 Fork this repository.
 Clone your fork and create a new branch for your bug fix:
