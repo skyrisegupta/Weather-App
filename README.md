@@ -18,7 +18,7 @@ To run this application locally, follow these steps:
 1. Clone this repository to your local machine:
 
 ```
-git clone https://github.com/talhayaseen57/weather-app.git
+git clone https://github.com/skyrisegupta/Weather-App.git
 ```
 
 2. Navigate into the project directory:
@@ -39,7 +39,7 @@ npm install
 npm start
 ```
 
-5. Open your browser and navigate to `http://localhost:3000` to view the application.
+5. Open your browser and navigate to `http://localhost:3000`(Please make sure to port is 3000) to view the application.
 
 ## Technologies Used
 
@@ -48,8 +48,31 @@ npm start
 
 ## API Usage
 
-This application fetches weather data from the [Open Weather API](https://openweathermap.org). You will need to sign up for an API key and replace `open_weather_api_key` in the [WeatherApp.jsx](/src/Components/WeatherApp/WeatherApp.jsx#L15) file with your actual API key.
+This application fetches weather data from the [Open Weather API](https://openweathermap.org). 
 
 ## Demo
 
 You can check out the live demo of this project [here](https://react-openmapweather-app.netlify.app).
+
+
+## Connect with me 🛠️
+
+I hope you like the design for any query contact - skyrisegupta@gmail.com or akashguptaworks@gmail.com
+
+
+##Found a Bug? 🐛
+
+Fork this repository.
+Clone your fork and create a new branch for your bug fix:
+bash
+Copy code
+
+```
+git checkout -b bugfix/your-bug-description
+```
+
+Submit a detailed issue describing the bug, or directly fix it and open a pull request.
+Have an Idea? 💡
+Feel free to suggest new features or enhancements by opening an issue or pull request.
+
+Your contributions help make WeatherWonder better!
